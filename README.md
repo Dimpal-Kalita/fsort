@@ -1,4 +1,4 @@
-# fsort
+# fsort (Not Ready Currently)
 
 `fsort` is a command-line utility written in Go for sorting large text files efficiently. It supports various sorting options and integrates seamlessly with other command-line tools via piping.
 
